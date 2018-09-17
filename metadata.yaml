@@ -1,0 +1,32 @@
+_repo: Memoirs-of-the-Marchioness-of-Pompadour-vol-2-of-2_52215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pompadour, Jeanne Antoinette Poisson, marquise de
+    aliases:
+    - Pompadour, Madame de (Jeanne Antoinette Poisson)
+    - De Pompadour, Madame (Jeanne Antoinette Poisson)
+    - Lenormand d'Etioles, Jeanne Antoinette, Marchioness de Pompadour
+    - Pompadour, marquise de
+    - Poisson, Jeanne Antoinette, marquise de Pompadour
+    birthdate: 1721
+    deathdate: 1764
+    gutenberg_agent_id: '46627'
+    url: http://www.gutenberg.org/2009/agents/46627
+description: ''
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764'
+- !lcsh 'France -- History -- Louis XV, 1715-1774'
+- !lcc 'DC'
+- GITenberg
+title: Memoirs of the Marchioness of Pompadour (vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/52215
